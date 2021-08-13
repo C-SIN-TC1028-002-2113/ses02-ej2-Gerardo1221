@@ -1,5 +1,5 @@
 def main():
-    #escribe tu código ab10ajo de esta línea
+    #escribe tu código abajo de esta línea
     b = float(input("Dame la base: "))
     h = float(input("Dame la altura: "))
     a = (b*h)/2
